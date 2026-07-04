@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "updated": "2026-07-04",
+  "packs": [
+    {
+      "slug": "brands",
+      "name": "Бренды электроники и техники",
+      "description": "Названия брендов, транслитерации, разговорные сокращения и частые опечатки.",
+      "lang": "ru",
+      "version": "2026.07.04",
+      "url": "packs/brands.json"
+    },
+    {
+      "slug": "electronics-parts",
+      "name": "Запчасти для электроники",
+      "description": "Телефоны, ноутбуки, умные часы, наушники — детали, узлы, акронимы, опечатки.",
+      "lang": "ru",
+      "version": "2026.07.04",
+      "url": "packs/electronics-parts.json"
+    },
+    {
+      "slug": "adhesives",
+      "name": "Клеи, герметики и инструмент",
+      "description": "Клеевые составы, герметики, монтажная пена, сопутствующий инструмент.",
+      "lang": "ru",
+      "version": "2026.07.04",
+      "url": "packs/adhesives.json"
+    }
+  ]
+}
