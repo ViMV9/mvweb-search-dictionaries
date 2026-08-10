@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-08-10",
+  "updated": "2026.08.10",
   "packs": [
     {
       "slug": "brands",
@@ -49,6 +49,30 @@
       "lang": "ru",
       "version": "2026.08.10",
       "url": "packs/apparel.json"
+    },
+    {
+      "slug": "electronics-parts-en",
+      "name": "Electronics parts (EN)",
+      "description": "Phones, laptops, wearables and audio — parts, modules, abbreviations and synonyms.",
+      "lang": "en",
+      "version": "2026.08.10",
+      "url": "packs/electronics-parts-en.json"
+    },
+    {
+      "slug": "auto-parts-en",
+      "name": "Auto parts (EN)",
+      "description": "Car parts and consumables — brakes, suspension, engine, filters and electrics, with US/UK variants.",
+      "lang": "en",
+      "version": "2026.08.10",
+      "url": "packs/auto-parts-en.json"
+    },
+    {
+      "slug": "apparel-en",
+      "name": "Clothing & footwear (EN)",
+      "description": "Clothing, footwear and accessories — garment types, colloquial and US/UK variants.",
+      "lang": "en",
+      "version": "2026.08.10",
+      "url": "packs/apparel-en.json"
     }
   ]
 }

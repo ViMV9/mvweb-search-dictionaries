@@ -1,0 +1,206 @@
+{
+  "slug": "apparel-en",
+  "name": "Clothing & footwear (EN)",
+  "lang": "en",
+  "version": "2026.08.10",
+  "groups": [
+    [
+      "jacket",
+      "coat"
+    ],
+    [
+      "puffer jacket",
+      "down jacket",
+      "padded jacket",
+      "quilted jacket"
+    ],
+    [
+      "overcoat",
+      "topcoat"
+    ],
+    [
+      "raincoat",
+      "rain jacket",
+      "mackintosh",
+      "mac"
+    ],
+    [
+      "t-shirt",
+      "tee",
+      "tshirt"
+    ],
+    [
+      "polo shirt",
+      "polo"
+    ],
+    [
+      "shirt",
+      "dress shirt",
+      "button-up",
+      "button-down"
+    ],
+    [
+      "jeans",
+      "denim",
+      "denim trousers"
+    ],
+    [
+      "trousers",
+      "pants",
+      "slacks"
+    ],
+    [
+      "shorts",
+      "bermudas"
+    ],
+    [
+      "hoodie",
+      "hooded sweatshirt"
+    ],
+    [
+      "sweatshirt",
+      "crewneck"
+    ],
+    [
+      "sweater",
+      "jumper",
+      "pullover",
+      "jersey"
+    ],
+    [
+      "cardigan",
+      "knit cardigan"
+    ],
+    [
+      "vest",
+      "waistcoat",
+      "gilet"
+    ],
+    [
+      "dress",
+      "frock"
+    ],
+    [
+      "suit",
+      "business suit"
+    ],
+    [
+      "blazer",
+      "sport coat",
+      "sports jacket"
+    ],
+    [
+      "tracksuit",
+      "sweatsuit",
+      "jogging suit"
+    ],
+    [
+      "leggings",
+      "tights"
+    ],
+    [
+      "sneakers",
+      "trainers",
+      "kicks",
+      "athletic shoes"
+    ],
+    [
+      "boots",
+      "ankle boots"
+    ],
+    [
+      "dress shoes",
+      "formal shoes"
+    ],
+    [
+      "loafers",
+      "moccasins"
+    ],
+    [
+      "sandals",
+      "flip-flops",
+      "flip flops"
+    ],
+    [
+      "slippers",
+      "house shoes"
+    ],
+    [
+      "heels",
+      "high heels",
+      "stilettos"
+    ],
+    [
+      "flats",
+      "ballet flats",
+      "ballet pumps"
+    ],
+    [
+      "underwear",
+      "undies",
+      "briefs",
+      "knickers"
+    ],
+    [
+      "bra",
+      "brassiere"
+    ],
+    [
+      "boxers",
+      "boxer shorts"
+    ],
+    [
+      "cap",
+      "baseball cap",
+      "ball cap"
+    ],
+    [
+      "beanie",
+      "knit hat",
+      "woolly hat"
+    ],
+    [
+      "gloves",
+      "mittens"
+    ],
+    [
+      "scarf",
+      "muffler"
+    ],
+    [
+      "bag",
+      "handbag",
+      "purse"
+    ],
+    [
+      "backpack",
+      "rucksack",
+      "knapsack"
+    ],
+    [
+      "wallet",
+      "billfold"
+    ],
+    [
+      "swimsuit",
+      "swimming costume",
+      "bathing suit",
+      "swimwear"
+    ],
+    [
+      "pyjamas",
+      "pajamas",
+      "nightwear"
+    ],
+    [
+      "jumpsuit",
+      "romper",
+      "playsuit"
+    ],
+    [
+      "windbreaker",
+      "windcheater",
+      "shell jacket"
+    ]
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "slug": "auto-parts-en",
+  "name": "Auto parts (EN)",
+  "lang": "en",
+  "version": "2026.08.10",
+  "groups": [
+    [
+      "brake pads",
+      "pads",
+      "brake blocks"
+    ],
+    [
+      "brake disc",
+      "brake rotor",
+      "rotor",
+      "disc"
+    ],
+    [
+      "brake caliper",
+      "caliper"
+    ],
+    [
+      "shock absorber",
+      "shock",
+      "damper",
+      "strut"
+    ],
+    [
+      "coil spring",
+      "suspension spring",
+      "spring"
+    ],
+    [
+      "ball joint",
+      "ball-joint"
+    ],
+    [
+      "control arm",
+      "wishbone",
+      "suspension arm",
+      "a-arm"
+    ],
+    [
+      "bushing",
+      "bush",
+      "suspension bush"
+    ],
+    [
+      "cv joint",
+      "cv axle",
+      "constant velocity joint"
+    ],
+    [
+      "wheel bearing",
+      "hub bearing"
+    ],
+    [
+      "steering rack",
+      "rack and pinion"
+    ],
+    [
+      "tie rod",
+      "track rod",
+      "tie rod end",
+      "track rod end"
+    ],
+    [
+      "oil filter",
+      "engine oil filter"
+    ],
+    [
+      "air filter",
+      "engine air filter"
+    ],
+    [
+      "cabin filter",
+      "pollen filter",
+      "ac filter"
+    ],
+    [
+      "fuel filter",
+      "petrol filter"
+    ],
+    [
+      "spark plug",
+      "plug"
+    ],
+    [
+      "glow plug",
+      "heater plug"
+    ],
+    [
+      "ignition coil",
+      "coil pack",
+      "coil-on-plug"
+    ],
+    [
+      "ignition leads",
+      "spark plug wires",
+      "ht leads",
+      "plug wires"
+    ],
+    [
+      "timing belt",
+      "cam belt",
+      "cambelt"
+    ],
+    [
+      "serpentine belt",
+      "drive belt",
+      "fan belt",
+      "accessory belt",
+      "alternator belt"
+    ],
+    [
+      "tensioner",
+      "belt tensioner",
+      "idler pulley"
+    ],
+    [
+      "water pump",
+      "coolant pump"
+    ],
+    [
+      "thermostat",
+      "coolant thermostat"
+    ],
+    [
+      "radiator",
+      "engine radiator"
+    ],
+    [
+      "heater core",
+      "heater matrix"
+    ],
+    [
+      "coolant",
+      "antifreeze"
+    ],
+    [
+      "engine oil",
+      "motor oil"
+    ],
+    [
+      "transmission fluid",
+      "gearbox oil",
+      "atf"
+    ],
+    [
+      "car battery",
+      "starter battery",
+      "accumulator"
+    ],
+    [
+      "starter",
+      "starter motor"
+    ],
+    [
+      "alternator",
+      "generator"
+    ],
+    [
+      "clutch kit",
+      "clutch",
+      "clutch set"
+    ],
+    [
+      "release bearing",
+      "throwout bearing",
+      "clutch bearing"
+    ],
+    [
+      "muffler",
+      "silencer",
+      "exhaust"
+    ],
+    [
+      "catalytic converter",
+      "cat",
+      "catalyst"
+    ],
+    [
+      "oxygen sensor",
+      "o2 sensor",
+      "lambda sensor",
+      "lambda"
+    ],
+    [
+      "crankshaft sensor",
+      "ckp sensor",
+      "crank sensor"
+    ],
+    [
+      "camshaft sensor",
+      "cmp sensor",
+      "cam sensor"
+    ],
+    [
+      "maf sensor",
+      "mass air flow sensor",
+      "air flow meter"
+    ],
+    [
+      "fuel injector",
+      "injector"
+    ],
+    [
+      "fuel pump",
+      "petrol pump"
+    ],
+    [
+      "throttle body",
+      "throttle"
+    ],
+    [
+      "wiper blades",
+      "windscreen wipers",
+      "windshield wipers",
+      "wipers"
+    ],
+    [
+      "headlight",
+      "headlamp",
+      "head lamp"
+    ],
+    [
+      "tail light",
+      "tail lamp",
+      "rear light",
+      "brake light"
+    ],
+    [
+      "side mirror",
+      "wing mirror",
+      "door mirror",
+      "rear view mirror"
+    ],
+    [
+      "bumper",
+      "front bumper",
+      "rear bumper"
+    ],
+    [
+      "fender",
+      "wing",
+      "mudguard"
+    ],
+    [
+      "fender liner",
+      "wheel arch liner",
+      "splash guard"
+    ],
+    [
+      "oil seal",
+      "crankshaft seal",
+      "cam seal"
+    ],
+    [
+      "head gasket",
+      "cylinder head gasket"
+    ],
+    [
+      "windshield",
+      "windscreen"
+    ],
+    [
+      "hood",
+      "bonnet"
+    ],
+    [
+      "trunk",
+      "boot"
+    ],
+    [
+      "tyre",
+      "tire"
+    ],
+    [
+      "gearbox",
+      "transmission"
+    ]
+  ]
+}

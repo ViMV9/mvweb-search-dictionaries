@@ -1,0 +1,198 @@
+{
+  "slug": "electronics-parts-en",
+  "name": "Electronics parts (EN)",
+  "lang": "en",
+  "version": "2026.08.10",
+  "groups": [
+    [
+      "battery",
+      "akku",
+      "accu",
+      "cell"
+    ],
+    [
+      "screen",
+      "display",
+      "lcd",
+      "panel"
+    ],
+    [
+      "touchscreen",
+      "digitizer",
+      "touch panel",
+      "touch glass"
+    ],
+    [
+      "screen protector",
+      "tempered glass",
+      "screen guard"
+    ],
+    [
+      "oled",
+      "amoled"
+    ],
+    [
+      "charging port",
+      "charge port",
+      "charging connector",
+      "dock connector",
+      "usb port"
+    ],
+    [
+      "flex cable",
+      "ribbon cable",
+      "flex connector"
+    ],
+    [
+      "speaker",
+      "loudspeaker",
+      "buzzer"
+    ],
+    [
+      "earpiece",
+      "ear speaker"
+    ],
+    [
+      "microphone",
+      "mic"
+    ],
+    [
+      "rear camera",
+      "back camera",
+      "main camera",
+      "primary camera"
+    ],
+    [
+      "front camera",
+      "selfie camera"
+    ],
+    [
+      "camera lens",
+      "lens glass",
+      "rear glass"
+    ],
+    [
+      "back cover",
+      "rear cover",
+      "battery cover",
+      "back glass",
+      "backplate"
+    ],
+    [
+      "frame",
+      "midframe",
+      "housing",
+      "chassis",
+      "bezel"
+    ],
+    [
+      "power button",
+      "lock button",
+      "side button"
+    ],
+    [
+      "volume button",
+      "volume rocker",
+      "volume keys"
+    ],
+    [
+      "home button",
+      "fingerprint button"
+    ],
+    [
+      "sim tray",
+      "sim holder",
+      "sim slot"
+    ],
+    [
+      "charger",
+      "power adapter",
+      "wall charger",
+      "power brick",
+      "ac adapter",
+      "psu"
+    ],
+    [
+      "charging cable",
+      "usb cable",
+      "data cable",
+      "lightning cable"
+    ],
+    [
+      "case",
+      "cover",
+      "phone case",
+      "protective case",
+      "bumper"
+    ],
+    [
+      "keyboard",
+      "keypad"
+    ],
+    [
+      "laptop charger",
+      "laptop adapter",
+      "notebook charger"
+    ],
+    [
+      "hard drive",
+      "hdd",
+      "hard disk"
+    ],
+    [
+      "ssd",
+      "solid state drive"
+    ],
+    [
+      "ram",
+      "memory module",
+      "memory stick"
+    ],
+    [
+      "motherboard",
+      "mainboard",
+      "logic board",
+      "system board"
+    ],
+    [
+      "cooling fan",
+      "cpu fan",
+      "laptop fan"
+    ],
+    [
+      "hinge",
+      "laptop hinge"
+    ],
+    [
+      "earbuds",
+      "earphones",
+      "in-ear headphones"
+    ],
+    [
+      "headphones",
+      "headset",
+      "over-ear headphones"
+    ],
+    [
+      "power bank",
+      "portable charger",
+      "battery pack"
+    ],
+    [
+      "memory card",
+      "sd card",
+      "microsd",
+      "tf card"
+    ],
+    [
+      "watch strap",
+      "watch band",
+      "watch bracelet"
+    ],
+    [
+      "stylus",
+      "touch pen",
+      "digital pen"
+    ]
+  ]
+}
